@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish-krsingh" alt="nitish-krsingh" /></a> </p>
 
-- 🌱 I’m currently learning **Master Of Computer Application**
+- 🌱 Experienced **Java Spring Boot Developer** with 2 years of experience in developing robust, scalable, and high-performance applications at **Tata Consultancy Services**. Proficient in Java, Spring Boot, MySQL, and RESTful APIs. Skilled in developing microservices and working with cloud technologies such as Azure. Passionate about innovative solutions in tech.
+
+Demonstrated ability to consistently deliver high-quality software solutions on time, driven by a commitment to providing clients with impactful results. I’m eager to further enhance my skills and take on challenging projects that push the boundaries of technology.
+
+**Let’s connect if you’re interested in collaborating on innovative projects or discussing exciting opportunities in software development.**
+#TechEnthusiast #SoftwareDevelope
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
